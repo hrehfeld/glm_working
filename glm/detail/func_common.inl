@@ -33,6 +33,8 @@
 #include "_vectorize.hpp"
 #include <limits>
 
+#include "../gtx/scalar_relational.hpp"
+
 namespace glm{
 namespace detail
 {
